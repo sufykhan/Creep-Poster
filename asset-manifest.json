@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Creep-Poster/static/css/main.17b862f2.css",
+    "main.js": "/Creep-Poster/static/js/main.187de85b.js",
+    "static/js/453.64fd544a.chunk.js": "/Creep-Poster/static/js/453.64fd544a.chunk.js",
+    "static/media/logo.svg": "/Creep-Poster/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Creep-Poster/index.html",
+    "main.17b862f2.css.map": "/Creep-Poster/static/css/main.17b862f2.css.map",
+    "main.187de85b.js.map": "/Creep-Poster/static/js/main.187de85b.js.map",
+    "453.64fd544a.chunk.js.map": "/Creep-Poster/static/js/453.64fd544a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b862f2.css",
+    "static/js/main.187de85b.js"
+  ]
+}
